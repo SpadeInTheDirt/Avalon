@@ -1,2 +1,2 @@
-# Avalon
- A multiplayer social deduction game
+# AvalonJava
+A text based implmentation of Avalon, a multiplayer social deduction game
